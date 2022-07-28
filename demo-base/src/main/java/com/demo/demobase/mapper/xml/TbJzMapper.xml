@@ -1,0 +1,16 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE mapper-->
+<!--        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"-->
+<!--        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+<!--<mapper namespace="com.demo.demobase.mapper.TbJzMapper">-->
+
+<!--    <resultMap id="BaseResultMap" type="com.demo.demobase..TbJz">-->
+<!--            <id property="id" column="id" jdbcType="INTEGER"/>-->
+<!--            <result property="name" column="name" jdbcType="VARCHAR"/>-->
+<!--            <result property="shape" column="shape" jdbcType="INTEGER"/>-->
+<!--    </resultMap>-->
+
+<!--    <sql id="Base_Column_List">-->
+<!--        id,name,shape-->
+<!--    </sql>-->
+<!--</mapper>-->
