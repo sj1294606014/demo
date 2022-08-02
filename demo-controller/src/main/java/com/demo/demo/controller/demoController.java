@@ -43,6 +43,10 @@ public class demoController {
     public String test(String str) {
         System.out.println("test2");
         System.out.println("test");
+
+        System.out.println("commit1");
+        System.out.println("commite2");
+        System.out.println("commit3");
         return str;
     }
 
