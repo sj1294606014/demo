@@ -41,6 +41,7 @@ public class demoController {
     @ApiOperation("demo")
     @PostMapping("demo")
     public String test(String str) {
+        System.out.println("test2");
         System.out.println("test");
         return str;
     }
