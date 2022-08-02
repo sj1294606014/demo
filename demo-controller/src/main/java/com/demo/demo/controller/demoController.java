@@ -48,6 +48,11 @@ public class demoController {
         System.out.println("commite2");
         System.out.println("commit3");
         System.out.println("testpush");
+
+        System.out.println("1");
+        System.out.println("2");
+
+
         return str;
     }
 
