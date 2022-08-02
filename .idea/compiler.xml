@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-dao" />
-        <module name="demo-base" />
-        <module name="demo-controller" />
-        <module name="demo-service" />
         <module name="demo-web" />
+        <module name="demo-base" />
+        <module name="demo-service" />
+        <module name="demo-controller" />
+        <module name="demo-dao" />
+        <module name="demo-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="demo-base" target="1.8" />
       <module name="demo-controller" target="1.8" />
       <module name="demo-dao" target="1.8" />
+      <module name="demo-java" target="1.8" />
       <module name="demo-service" target="1.8" />
       <module name="demo-web" target="1.8" />
     </bytecodeTargetLevel>
@@ -29,6 +31,7 @@
       <module name="demo-base" options="-parameters" />
       <module name="demo-controller" options="-parameters" />
       <module name="demo-dao" options="-parameters" />
+      <module name="demo-java" options="-parameters" />
       <module name="demo-service" options="-parameters" />
       <module name="demo-web" options="-parameters" />
     </option>
